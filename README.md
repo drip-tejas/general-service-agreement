@@ -45,23 +45,21 @@ The website version is the version that applies to client engagements, as refere
 
 ---
 
+## Current Version
+
+- **Version:** January 2026 (v1.2)
+- **Status:** Active
+- **File:** `DripDigital General Service Agreement January 2026.md`
+
+Engagements are governed by the version of the GSA that is in effect on the date the relevant Engagement Agreement is executed.
+
+---
+
 ## Versioning Policy
 
 - Each update to the GSA is versioned (e.g. `v1.0`, `v1.1`, `v1.2`)
 - Engagements are governed by the **version in effect on the date the Engagement Agreement is executed**
-- Updates to the GSA are **not applied retroactively** to existing engagements unless expressly agreed in writing
-
----
-
-## Repository Structure
-
-/
-├── gsa/
-│ ├── GSA-v1.2.md
-│ └── archived/
-│ ├── GSA-v1.1.md
-│ └── GSA-v1.0.md
-└── README.md
+- Updates to the GSA are **not applied retroactively** to existing engagements unless expressly agreed in writing.
 
 ---
 
